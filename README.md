@@ -1,6 +1,4 @@
-# fORged-by-Machine-Contest
-
-# Codes-for-the-INFORMS-Competition
+# fORged-by-Machine-Contest (Ruuner-up Team)
 Python Codes for the INFORMS Competition 2019 (sponsored by AWS)
 This codes are developed by the participants: Rahman Khorramfar and Saeed Chavoshi.
 
